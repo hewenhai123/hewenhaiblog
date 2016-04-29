@@ -1,0 +1,17 @@
+{
+  "name": "hewenhaiblog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "hewenhai123 <1194630180@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
